@@ -1,0 +1,2 @@
+# trydjango
+To test django
